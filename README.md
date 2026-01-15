@@ -1,0 +1,1 @@
+# Satis-ve-Stok-Takip-Otomasyonu-Projem
