@@ -1,0 +1,20 @@
+C:\Users\Gökhan\Desktop\Proje Odevim\Proje Odevim\bin\Debug\Proje Odevim.exe.config
+C:\Users\Gökhan\Desktop\Proje Odevim\Proje Odevim\bin\Debug\Proje Odevim.exe
+C:\Users\Gökhan\Desktop\Proje Odevim\Proje Odevim\bin\Debug\Proje Odevim.pdb
+C:\Users\Gökhan\Desktop\Proje Odevim\Proje Odevim\bin\Debug\MySql.Data.dll
+C:\Users\Gökhan\Desktop\Proje Odevim\Proje Odevim\bin\Debug\System.Memory.dll
+C:\Users\Gökhan\Desktop\Proje Odevim\Proje Odevim\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Gökhan\Desktop\Proje Odevim\Proje Odevim\bin\Debug\MySql.Data.xml
+C:\Users\Gökhan\Desktop\Proje Odevim\Proje Odevim\obj\Debug\Proje Odevim.csproj.AssemblyReference.cache
+C:\Users\Gökhan\Desktop\Proje Odevim\Proje Odevim\obj\Debug\Proje_Odevim.Presentation_Layer.AnaMenuForm.resources
+C:\Users\Gökhan\Desktop\Proje Odevim\Proje Odevim\obj\Debug\Proje_Odevim.StokveSatişTakipGiriş.resources
+C:\Users\Gökhan\Desktop\Proje Odevim\Proje Odevim\obj\Debug\Proje_Odevim.Presentation_Layer.MusteriForm.resources
+C:\Users\Gökhan\Desktop\Proje Odevim\Proje Odevim\obj\Debug\Proje_Odevim.Presentation_Layer.UrunForm.resources
+C:\Users\Gökhan\Desktop\Proje Odevim\Proje Odevim\obj\Debug\Proje_Odevim.Properties.Resources.resources
+C:\Users\Gökhan\Desktop\Proje Odevim\Proje Odevim\obj\Debug\Proje Odevim.csproj.GenerateResource.cache
+C:\Users\Gökhan\Desktop\Proje Odevim\Proje Odevim\obj\Debug\Proje Odevim.csproj.CoreCompileInputs.cache
+C:\Users\Gökhan\Desktop\Proje Odevim\Proje Odevim\obj\Debug\Proje Od.19353FBC.Up2Date
+C:\Users\Gökhan\Desktop\Proje Odevim\Proje Odevim\obj\Debug\Proje Odevim.exe
+C:\Users\Gökhan\Desktop\Proje Odevim\Proje Odevim\obj\Debug\Proje Odevim.pdb
+C:\Users\Gökhan\Desktop\Proje Odevim\Proje Odevim\obj\Debug\Proje_Odevim.Presentation_Layer.satisekrani.resources
+C:\Users\Gökhan\Desktop\Proje Odevim\Proje Odevim\obj\Debug\Proje_Odevim.Presentation_Layer.RaporlamaEkrani.resources
